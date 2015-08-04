@@ -1,0 +1,2 @@
+module Minim
+end
